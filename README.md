@@ -1,5 +1,5 @@
 ![iComics Issues](img/iComics-Issues.jpg "iComics Issues")
-This is the repo hosts [the official issues list](https://github.com/iComics/iComics-Issues) for tracking bugs, requesting new features and any other general development items for [iComics](http://icomics.co), the comic reader for iOS. 
+This is the repo hosts [the official issues list](https://github.com/iComics/iComics-Issues/issues) for tracking bugs, requesting new features and any other general development items for [iComics](http://icomics.co), the comic reader for iOS. 
 
 If you've got a bug/feature you'd like to submit, but don't want to register for a GitHub account, feel free to send me an email at ***feedback AT icomics DOT co***.
 
