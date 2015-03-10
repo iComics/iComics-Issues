@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/iComics/iComics-Issues.png?label=ready&title=Ready)](https://waffle.io/iComics/iComics-Issues)
 ![iComics Issues](img/iComics-Issues.jpg "iComics Issues")
 This is the repo hosts [the official issues list](https://github.com/iComics/iComics-Issues/issues) for tracking bugs, requesting new features and any other general development items for [iComics](http://icomics.co), the comic reader for iOS. 
 
